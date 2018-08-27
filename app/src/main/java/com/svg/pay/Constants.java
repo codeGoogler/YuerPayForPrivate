@@ -11,12 +11,12 @@ public class Constants {
 //    public static  String APP_ID = "";
 //    public static  String API_KEY = "";
     // appid
-    public static final String APP_ID = "wx202de326574683ef";// y
+    public static final String APP_ID = "2412543452435345";// y
 
     // 商户号
-    public static final String MCH_ID = "1476716702";// y
+    public static final String MCH_ID = "12434513541311343";// y
 
 
     // API密钥，在商户平台设置
-    public static final String API_KEY =  "a4hgQnTlejh2Olkvk3SDXyRg71LAtiXz";//
+    public static final String API_KEY =  "a4hgQnTleqdfdgadfjh2Olkvk3SDXyRg71LAtiXz";//
 }
